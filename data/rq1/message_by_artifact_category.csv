@@ -1,0 +1,73 @@
+heuristic,artifact_type,category,label,eligible_artifacts,artifact_count,percentage
+message,commit,Bug,python_only,10823,651,6.01
+message,commit,Bug,paired_only,10823,705,6.51
+message,commit,Bug,both,10823,92,0.85
+message,commit,Bug,neither,10823,9375,86.62
+message,commit,Feature,python_only,26529,1307,4.93
+message,commit,Feature,paired_only,26529,2310,8.71
+message,commit,Feature,both,26529,118,0.44
+message,commit,Feature,neither,26529,22794,85.92
+message,commit,Documentation,python_only,10032,481,4.79
+message,commit,Documentation,paired_only,10032,458,4.57
+message,commit,Documentation,both,10032,193,1.92
+message,commit,Documentation,neither,10032,8900,88.72
+message,commit,Test Cases,python_only,4482,259,5.78
+message,commit,Test Cases,paired_only,4482,325,7.25
+message,commit,Test Cases,both,4482,65,1.45
+message,commit,Test Cases,neither,4482,3833,85.52
+message,commit,Refactoring,python_only,3452,88,2.55
+message,commit,Refactoring,paired_only,3452,189,5.48
+message,commit,Refactoring,both,3452,27,0.78
+message,commit,Refactoring,neither,3452,3148,91.19
+message,commit,Other,python_only,24670,794,3.22
+message,commit,Other,paired_only,24670,1560,6.32
+message,commit,Other,both,24670,56,0.23
+message,commit,Other,neither,24670,22260,90.23
+message,pull_request,Bug,python_only,13485,1335,9.90
+message,pull_request,Bug,paired_only,13485,4402,32.64
+message,pull_request,Bug,both,13485,1295,9.60
+message,pull_request,Bug,neither,13485,6453,47.85
+message,pull_request,Feature,python_only,5993,347,5.79
+message,pull_request,Feature,paired_only,5993,233,3.89
+message,pull_request,Feature,both,5993,43,0.72
+message,pull_request,Feature,neither,5993,5370,89.60
+message,pull_request,Documentation,python_only,4876,469,9.62
+message,pull_request,Documentation,paired_only,4876,578,11.85
+message,pull_request,Documentation,both,4876,235,4.82
+message,pull_request,Documentation,neither,4876,3594,73.71
+message,pull_request,Test Cases,python_only,3590,177,4.93
+message,pull_request,Test Cases,paired_only,3590,227,6.32
+message,pull_request,Test Cases,both,3590,72,2.01
+message,pull_request,Test Cases,neither,3590,3114,86.74
+message,pull_request,Refactoring,python_only,629,56,8.90
+message,pull_request,Refactoring,paired_only,629,53,8.43
+message,pull_request,Refactoring,both,629,12,1.91
+message,pull_request,Refactoring,neither,629,508,80.76
+message,pull_request,Other,python_only,5677,172,3.03
+message,pull_request,Other,paired_only,5677,2493,43.91
+message,pull_request,Other,both,5677,192,3.38
+message,pull_request,Other,neither,5677,2820,49.67
+message,issue,Bug,python_only,4229,976,23.08
+message,issue,Bug,paired_only,4229,623,14.73
+message,issue,Bug,both,4229,212,5.01
+message,issue,Bug,neither,4229,2418,57.18
+message,issue,Feature,python_only,4033,793,19.66
+message,issue,Feature,paired_only,4033,396,9.82
+message,issue,Feature,both,4033,82,2.03
+message,issue,Feature,neither,4033,2762,68.48
+message,issue,Documentation,python_only,435,69,15.86
+message,issue,Documentation,paired_only,435,65,14.94
+message,issue,Documentation,both,435,27,6.21
+message,issue,Documentation,neither,435,274,62.99
+message,issue,Test Cases,python_only,853,166,19.46
+message,issue,Test Cases,paired_only,853,139,16.30
+message,issue,Test Cases,both,853,40,4.69
+message,issue,Test Cases,neither,853,508,59.55
+message,issue,Refactoring,python_only,347,44,12.68
+message,issue,Refactoring,paired_only,347,44,12.68
+message,issue,Refactoring,both,347,12,3.46
+message,issue,Refactoring,neither,347,247,71.18
+message,issue,Other,python_only,4435,493,11.12
+message,issue,Other,paired_only,4435,377,8.50
+message,issue,Other,both,4435,80,1.80
+message,issue,Other,neither,4435,3485,78.58

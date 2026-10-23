@@ -1,0 +1,27 @@
+{
+  "population_repositories": 2674,
+  "repos_with_mined_activity_rows": 385,
+  "repos_with_zero_mined_activity_rows": 2289,
+  "rq1_repos_with_classified_artifacts": 304,
+  "rq1_repos_with_zero_classified_artifacts": 2370,
+  "preliminary_repos_with_python_related_artifacts": 244,
+  "preliminary_repos_with_zero_python_related_artifacts": 2430,
+  "rq2_repos_analyzed": 2250,
+  "rq2_repos_not_analyzed": 424,
+  "repos_with_mined_activity_but_zero_rq1_artifacts": 82,
+  "repos_with_rq1_artifacts_but_zero_python_related_artifacts": 60,
+  "rq2_verdict_counts": {
+    "build-coupled-runtime-likely-independent": 917,
+    "not_analyzed": 424,
+    "runtime-coupled-candidate": 133,
+    "runtime-independent-if-packaged": 98,
+    "runtime-likely-independent": 1102
+  },
+  "rq2_paper_classification_counts": {
+    "Build/Package-Time Coupling": 917,
+    "No Detected Runtime Coupling": 1102,
+    "Not Analyzed": 424,
+    "Potential External Runtime Coupling": 133,
+    "Potential Runtime Loading": 98
+  }
+}

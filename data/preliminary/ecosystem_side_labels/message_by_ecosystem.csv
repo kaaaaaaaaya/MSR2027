@@ -1,0 +1,17 @@
+ecosystem_combo,heuristic,label,eligible_artifacts,artifact_count,percentage,repo_count
+crates+npm+pypi,message,python_only,9438,483,5.12,11
+crates+npm+pypi,message,paired_only,9438,1632,17.29,14
+crates+npm+pypi,message,both,9438,364,3.86,10
+crates+npm+pypi,message,neither,9438,6959,73.73,13
+crates+pypi,message,python_only,38700,2924,7.56,89
+crates+pypi,message,paired_only,38700,5508,14.23,93
+crates+pypi,message,both,38700,962,2.49,65
+crates+pypi,message,neither,38700,29306,75.73,110
+maven+pypi,message,python_only,485,227,46.80,2
+maven+pypi,message,paired_only,485,0,0.00,0
+maven+pypi,message,both,485,4,0.82,1
+maven+pypi,message,neither,485,254,52.37,2
+npm+pypi,message,python_only,79947,5043,6.31,120
+npm+pypi,message,paired_only,79947,8037,10.05,116
+npm+pypi,message,both,79947,1523,1.91,81
+npm+pypi,message,neither,79947,65344,81.73,169

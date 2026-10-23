@@ -1,0 +1,8 @@
+# decompressed copies of the gzip-shipped tables (see README)
+data/rq1/maintenance_classified.csv
+data/preliminary/python_related_topics/python_related_classified.csv
+# local re-run outputs
+work/
+*_reproduced/
+__pycache__/
+.DS_Store

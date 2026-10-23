@@ -1,0 +1,901 @@
+ecosystem_combo,repo_slug,primary_topic,total_python_related,artifact_count,percentage,repo_count
+crates+npm+pypi,alttch/elbus,Dependency/Packaging,2,1,50.00,1
+crates+npm+pypi,alttch/elbus,Runtime/Error Handling,2,1,50.00,1
+crates+npm+pypi,andreyakinshin/pragmastat,API Evolution,2,2,100.00,1
+crates+npm+pypi,bastikohn/ply2splat,Dependency/Packaging,12,10,83.33,1
+crates+npm+pypi,bastikohn/ply2splat,API Evolution,12,1,8.33,1
+crates+npm+pypi,bastikohn/ply2splat,Runtime/Error Handling,12,1,8.33,1
+crates+npm+pypi,botanio/sdk,Dependency/Packaging,54,6,11.11,1
+crates+npm+pypi,botanio/sdk,API Evolution,54,16,29.63,1
+crates+npm+pypi,botanio/sdk,Runtime/Error Handling,54,3,5.56,1
+crates+npm+pypi,botanio/sdk,Compatibility,54,2,3.70,1
+crates+npm+pypi,botanio/sdk,Documentation/Configuration,54,8,14.81,1
+crates+npm+pypi,botanio/sdk,Testing/CI,54,1,1.85,1
+crates+npm+pypi,botanio/sdk,Other Python Maintenance,54,18,33.33,1
+crates+npm+pypi,conqxeror/veloxx,Dependency/Packaging,4,4,100.00,1
+crates+npm+pypi,cosmian/cloudproof_rust,Dependency/Packaging,121,63,52.07,1
+crates+npm+pypi,cosmian/cloudproof_rust,API Evolution,121,30,24.79,1
+crates+npm+pypi,cosmian/cloudproof_rust,Runtime/Error Handling,121,11,9.09,1
+crates+npm+pypi,cosmian/cloudproof_rust,Documentation/Configuration,121,10,8.26,1
+crates+npm+pypi,cosmian/cloudproof_rust,Testing/CI,121,5,4.13,1
+crates+npm+pypi,cosmian/cloudproof_rust,Other Python Maintenance,121,2,1.65,1
+crates+npm+pypi,cyber-boost/todozi,API Evolution,2,2,100.00,1
+crates+npm+pypi,metacall/core,Dependency/Packaging,273,131,47.99,1
+crates+npm+pypi,metacall/core,API Evolution,273,84,30.77,1
+crates+npm+pypi,metacall/core,Runtime/Error Handling,273,20,7.33,1
+crates+npm+pypi,metacall/core,Compatibility,273,7,2.56,1
+crates+npm+pypi,metacall/core,Documentation/Configuration,273,4,1.47,1
+crates+npm+pypi,metacall/core,Testing/CI,273,6,2.20,1
+crates+npm+pypi,metacall/core,Other Python Maintenance,273,21,7.69,1
+crates+npm+pypi,microsandbox/microsandbox,Dependency/Packaging,465,217,46.67,1
+crates+npm+pypi,microsandbox/microsandbox,API Evolution,465,164,35.27,1
+crates+npm+pypi,microsandbox/microsandbox,Runtime/Error Handling,465,36,7.74,1
+crates+npm+pypi,microsandbox/microsandbox,Compatibility,465,3,0.65,1
+crates+npm+pypi,microsandbox/microsandbox,Documentation/Configuration,465,37,7.96,1
+crates+npm+pypi,microsandbox/microsandbox,Testing/CI,465,4,0.86,1
+crates+npm+pypi,microsandbox/microsandbox,Other Python Maintenance,465,4,0.86,1
+crates+npm+pypi,nkwork9999/sql2viz,Dependency/Packaging,4,2,50.00,1
+crates+npm+pypi,nkwork9999/sql2viz,Documentation/Configuration,4,1,25.00,1
+crates+npm+pypi,nkwork9999/sql2viz,Other Python Maintenance,4,1,25.00,1
+crates+npm+pypi,riddler/uxid,Dependency/Packaging,13,6,46.15,1
+crates+npm+pypi,riddler/uxid,API Evolution,13,2,15.38,1
+crates+npm+pypi,riddler/uxid,Runtime/Error Handling,13,1,7.69,1
+crates+npm+pypi,riddler/uxid,Testing/CI,13,2,15.38,1
+crates+npm+pypi,riddler/uxid,Other Python Maintenance,13,2,15.38,1
+crates+npm+pypi,systemcluster/kitoken,Documentation/Configuration,1,1,100.00,1
+crates+npm+pypi,truelayer/truelayer-signing,Dependency/Packaging,150,102,68.00,1
+crates+npm+pypi,truelayer/truelayer-signing,API Evolution,150,9,6.00,1
+crates+npm+pypi,truelayer/truelayer-signing,Runtime/Error Handling,150,10,6.67,1
+crates+npm+pypi,truelayer/truelayer-signing,Documentation/Configuration,150,14,9.33,1
+crates+npm+pypi,truelayer/truelayer-signing,Testing/CI,150,6,4.00,1
+crates+npm+pypi,truelayer/truelayer-signing,Other Python Maintenance,150,9,6.00,1
+crates+npm+pypi,zcred/sivchain,Dependency/Packaging,42,17,40.48,1
+crates+npm+pypi,zcred/sivchain,API Evolution,42,15,35.71,1
+crates+npm+pypi,zcred/sivchain,Runtime/Error Handling,42,4,9.52,1
+crates+npm+pypi,zcred/sivchain,Documentation/Configuration,42,3,7.14,1
+crates+npm+pypi,zcred/sivchain,Testing/CI,42,2,4.76,1
+crates+npm+pypi,zcred/sivchain,Other Python Maintenance,42,1,2.38,1
+crates+pypi,alixinne/glslt,Dependency/Packaging,17,15,88.24,1
+crates+pypi,alixinne/glslt,API Evolution,17,1,5.88,1
+crates+pypi,alixinne/glslt,Runtime/Error Handling,17,1,5.88,1
+crates+pypi,allenanswerzq/llmcc,Dependency/Packaging,73,34,46.58,1
+crates+pypi,allenanswerzq/llmcc,API Evolution,73,14,19.18,1
+crates+pypi,allenanswerzq/llmcc,Runtime/Error Handling,73,7,9.59,1
+crates+pypi,allenanswerzq/llmcc,Documentation/Configuration,73,14,19.18,1
+crates+pypi,allenanswerzq/llmcc,Testing/CI,73,3,4.11,1
+crates+pypi,allenanswerzq/llmcc,Other Python Maintenance,73,1,1.37,1
+crates+pypi,althonos/nafcodec,Dependency/Packaging,2,1,50.00,1
+crates+pypi,althonos/nafcodec,Runtime/Error Handling,2,1,50.00,1
+crates+pypi,alttch/shd,Dependency/Packaging,2,1,50.00,1
+crates+pypi,alttch/shd,Runtime/Error Handling,2,1,50.00,1
+crates+pypi,amplifytechnology/blazegraph-io,Dependency/Packaging,8,4,50.00,1
+crates+pypi,amplifytechnology/blazegraph-io,API Evolution,8,2,25.00,1
+crates+pypi,amplifytechnology/blazegraph-io,Runtime/Error Handling,8,1,12.50,1
+crates+pypi,amplifytechnology/blazegraph-io,Testing/CI,8,1,12.50,1
+crates+pypi,andreabozzo/dataprof,Dependency/Packaging,248,106,42.74,1
+crates+pypi,andreabozzo/dataprof,API Evolution,248,91,36.69,1
+crates+pypi,andreabozzo/dataprof,Runtime/Error Handling,248,24,9.68,1
+crates+pypi,andreabozzo/dataprof,Compatibility,248,2,0.81,1
+crates+pypi,andreabozzo/dataprof,Documentation/Configuration,248,19,7.66,1
+crates+pypi,andreabozzo/dataprof,Testing/CI,248,2,0.81,1
+crates+pypi,andreabozzo/dataprof,Other Python Maintenance,248,4,1.61,1
+crates+pypi,andrejorsula/oxidasim,Dependency/Packaging,20,20,100.00,1
+crates+pypi,angreal/angreal,Dependency/Packaging,208,107,51.44,1
+crates+pypi,angreal/angreal,API Evolution,208,22,10.58,1
+crates+pypi,angreal/angreal,Runtime/Error Handling,208,5,2.40,1
+crates+pypi,angreal/angreal,Compatibility,208,6,2.88,1
+crates+pypi,angreal/angreal,Documentation/Configuration,208,34,16.35,1
+crates+pypi,angreal/angreal,Testing/CI,208,9,4.33,1
+crates+pypi,angreal/angreal,Other Python Maintenance,208,25,12.02,1
+crates+pypi,apache/hudi-rs,Dependency/Packaging,477,292,61.22,1
+crates+pypi,apache/hudi-rs,API Evolution,477,111,23.27,1
+crates+pypi,apache/hudi-rs,Runtime/Error Handling,477,28,5.87,1
+crates+pypi,apache/hudi-rs,Compatibility,477,1,0.21,1
+crates+pypi,apache/hudi-rs,Documentation/Configuration,477,20,4.19,1
+crates+pypi,apache/hudi-rs,Testing/CI,477,16,3.35,1
+crates+pypi,apache/hudi-rs,Other Python Maintenance,477,9,1.89,1
+crates+pypi,aschii85/sde-sim-rs,Dependency/Packaging,16,9,56.25,1
+crates+pypi,aschii85/sde-sim-rs,API Evolution,16,3,18.75,1
+crates+pypi,aschii85/sde-sim-rs,Runtime/Error Handling,16,2,12.50,1
+crates+pypi,aschii85/sde-sim-rs,Documentation/Configuration,16,2,12.50,1
+crates+pypi,astarte-platform/astarte-message-hub-proto,Dependency/Packaging,77,22,28.57,1
+crates+pypi,astarte-platform/astarte-message-hub-proto,API Evolution,77,29,37.66,1
+crates+pypi,astarte-platform/astarte-message-hub-proto,Runtime/Error Handling,77,2,2.60,1
+crates+pypi,astarte-platform/astarte-message-hub-proto,Documentation/Configuration,77,15,19.48,1
+crates+pypi,astarte-platform/astarte-message-hub-proto,Other Python Maintenance,77,9,11.69,1
+crates+pypi,bellini666/pytest-language-server,Dependency/Packaging,66,37,56.06,1
+crates+pypi,bellini666/pytest-language-server,API Evolution,66,19,28.79,1
+crates+pypi,bellini666/pytest-language-server,Runtime/Error Handling,66,6,9.09,1
+crates+pypi,bellini666/pytest-language-server,Testing/CI,66,4,6.06,1
+crates+pypi,benfred/py-spy,Dependency/Packaging,723,417,57.68,1
+crates+pypi,benfred/py-spy,API Evolution,723,126,17.43,1
+crates+pypi,benfred/py-spy,Runtime/Error Handling,723,78,10.79,1
+crates+pypi,benfred/py-spy,Compatibility,723,40,5.53,1
+crates+pypi,benfred/py-spy,Documentation/Configuration,723,5,0.69,1
+crates+pypi,benfred/py-spy,Testing/CI,723,23,3.18,1
+crates+pypi,benfred/py-spy,Other Python Maintenance,723,34,4.70,1
+crates+pypi,binh-vu/kgdata,Dependency/Packaging,53,38,71.70,1
+crates+pypi,binh-vu/kgdata,API Evolution,53,7,13.21,1
+crates+pypi,binh-vu/kgdata,Runtime/Error Handling,53,2,3.77,1
+crates+pypi,binh-vu/kgdata,Documentation/Configuration,53,1,1.89,1
+crates+pypi,binh-vu/kgdata,Other Python Maintenance,53,5,9.43,1
+crates+pypi,brmmm3/scandir-rs,Dependency/Packaging,5,4,80.00,1
+crates+pypi,brmmm3/scandir-rs,Other Python Maintenance,5,1,20.00,1
+crates+pypi,btraven00/denet,Dependency/Packaging,23,11,47.83,1
+crates+pypi,btraven00/denet,API Evolution,23,10,43.48,1
+crates+pypi,btraven00/denet,Runtime/Error Handling,23,1,4.35,1
+crates+pypi,btraven00/denet,Testing/CI,23,1,4.35,1
+crates+pypi,burnt-labs/xion-types,Dependency/Packaging,64,44,68.75,1
+crates+pypi,burnt-labs/xion-types,API Evolution,64,16,25.00,1
+crates+pypi,burnt-labs/xion-types,Runtime/Error Handling,64,1,1.56,1
+crates+pypi,burnt-labs/xion-types,Documentation/Configuration,64,2,3.12,1
+crates+pypi,burnt-labs/xion-types,Other Python Maintenance,64,1,1.56,1
+crates+pypi,codde-pi/codde_protocol,Dependency/Packaging,25,19,76.00,1
+crates+pypi,codde-pi/codde_protocol,API Evolution,25,2,8.00,1
+crates+pypi,codde-pi/codde_protocol,Runtime/Error Handling,25,3,12.00,1
+crates+pypi,codde-pi/codde_protocol,Documentation/Configuration,25,1,4.00,1
+crates+pypi,colmtalbot/bilby_rust,Dependency/Packaging,19,15,78.95,1
+crates+pypi,colmtalbot/bilby_rust,API Evolution,19,2,10.53,1
+crates+pypi,colmtalbot/bilby_rust,Documentation/Configuration,19,1,5.26,1
+crates+pypi,colmtalbot/bilby_rust,Testing/CI,19,1,5.26,1
+crates+pypi,conorsch/etym,Dependency/Packaging,2,2,100.00,1
+crates+pypi,crwood/lafs,Dependency/Packaging,18,3,16.67,1
+crates+pypi,crwood/lafs,API Evolution,18,9,50.00,1
+crates+pypi,crwood/lafs,Runtime/Error Handling,18,1,5.56,1
+crates+pypi,crwood/lafs,Testing/CI,18,2,11.11,1
+crates+pypi,crwood/lafs,Other Python Maintenance,18,3,16.67,1
+crates+pypi,cyphar/libpathrs,Dependency/Packaging,96,40,41.67,1
+crates+pypi,cyphar/libpathrs,API Evolution,96,39,40.62,1
+crates+pypi,cyphar/libpathrs,Runtime/Error Handling,96,1,1.04,1
+crates+pypi,cyphar/libpathrs,Compatibility,96,1,1.04,1
+crates+pypi,cyphar/libpathrs,Documentation/Configuration,96,6,6.25,1
+crates+pypi,cyphar/libpathrs,Testing/CI,96,3,3.12,1
+crates+pypi,cyphar/libpathrs,Other Python Maintenance,96,6,6.25,1
+crates+pypi,daizutabi/textconf,Dependency/Packaging,42,8,19.05,1
+crates+pypi,daizutabi/textconf,API Evolution,42,14,33.33,1
+crates+pypi,daizutabi/textconf,Runtime/Error Handling,42,2,4.76,1
+crates+pypi,daizutabi/textconf,Documentation/Configuration,42,7,16.67,1
+crates+pypi,daizutabi/textconf,Testing/CI,42,8,19.05,1
+crates+pypi,daizutabi/textconf,Other Python Maintenance,42,3,7.14,1
+crates+pypi,driskai/drisk_api,Dependency/Packaging,30,8,26.67,1
+crates+pypi,driskai/drisk_api,API Evolution,30,13,43.33,1
+crates+pypi,driskai/drisk_api,Runtime/Error Handling,30,5,16.67,1
+crates+pypi,driskai/drisk_api,Documentation/Configuration,30,1,3.33,1
+crates+pypi,driskai/drisk_api,Testing/CI,30,1,3.33,1
+crates+pypi,driskai/drisk_api,Other Python Maintenance,30,2,6.67,1
+crates+pypi,ericfecteau/dcss-api,Dependency/Packaging,11,4,36.36,1
+crates+pypi,ericfecteau/dcss-api,API Evolution,11,4,36.36,1
+crates+pypi,ericfecteau/dcss-api,Runtime/Error Handling,11,2,18.18,1
+crates+pypi,ericfecteau/dcss-api,Documentation/Configuration,11,1,9.09,1
+crates+pypi,esrehmki/chemfst,Dependency/Packaging,9,7,77.78,1
+crates+pypi,esrehmki/chemfst,Runtime/Error Handling,9,1,11.11,1
+crates+pypi,esrehmki/chemfst,Documentation/Configuration,9,1,11.11,1
+crates+pypi,goldziher/uncomment,Dependency/Packaging,30,21,70.00,1
+crates+pypi,goldziher/uncomment,API Evolution,30,8,26.67,1
+crates+pypi,goldziher/uncomment,Runtime/Error Handling,30,1,3.33,1
+crates+pypi,google/open-location-code,Dependency/Packaging,169,45,26.63,1
+crates+pypi,google/open-location-code,API Evolution,169,58,34.32,1
+crates+pypi,google/open-location-code,Runtime/Error Handling,169,10,5.92,1
+crates+pypi,google/open-location-code,Compatibility,169,3,1.78,1
+crates+pypi,google/open-location-code,Documentation/Configuration,169,4,2.37,1
+crates+pypi,google/open-location-code,Testing/CI,169,6,3.55,1
+crates+pypi,google/open-location-code,Other Python Maintenance,169,43,25.44,1
+crates+pypi,helsing-ai/turtlefmt,Dependency/Packaging,2,2,100.00,1
+crates+pypi,hivellm/umicp,Dependency/Packaging,14,7,50.00,1
+crates+pypi,hivellm/umicp,API Evolution,14,1,7.14,1
+crates+pypi,hivellm/umicp,Compatibility,14,2,14.29,1
+crates+pypi,hivellm/umicp,Documentation/Configuration,14,3,21.43,1
+crates+pypi,hivellm/umicp,Testing/CI,14,1,7.14,1
+crates+pypi,holg/gldf-rs-python,API Evolution,1,1,100.00,1
+crates+pypi,insight-platform/similari,Dependency/Packaging,116,31,26.72,1
+crates+pypi,insight-platform/similari,API Evolution,116,30,25.86,1
+crates+pypi,insight-platform/similari,Runtime/Error Handling,116,2,1.72,1
+crates+pypi,insight-platform/similari,Documentation/Configuration,116,27,23.28,1
+crates+pypi,insight-platform/similari,Testing/CI,116,1,0.86,1
+crates+pypi,insight-platform/similari,Other Python Maintenance,116,25,21.55,1
+crates+pypi,jlogan03/interpn,Dependency/Packaging,95,50,52.63,1
+crates+pypi,jlogan03/interpn,API Evolution,95,19,20.00,1
+crates+pypi,jlogan03/interpn,Runtime/Error Handling,95,3,3.16,1
+crates+pypi,jlogan03/interpn,Documentation/Configuration,95,17,17.89,1
+crates+pypi,jlogan03/interpn,Testing/CI,95,2,2.11,1
+crates+pypi,jlogan03/interpn,Other Python Maintenance,95,4,4.21,1
+crates+pypi,k-dash/python-proto-importer,Dependency/Packaging,173,169,97.69,1
+crates+pypi,k-dash/python-proto-importer,Testing/CI,173,1,0.58,1
+crates+pypi,k-dash/python-proto-importer,Other Python Maintenance,173,3,1.73,1
+crates+pypi,kaorunishikawa/sakz,Dependency/Packaging,4,2,50.00,1
+crates+pypi,kaorunishikawa/sakz,Documentation/Configuration,4,2,50.00,1
+crates+pypi,kn0g/cartesian-tree,Dependency/Packaging,26,10,38.46,1
+crates+pypi,kn0g/cartesian-tree,API Evolution,26,9,34.62,1
+crates+pypi,kn0g/cartesian-tree,Runtime/Error Handling,26,1,3.85,1
+crates+pypi,kn0g/cartesian-tree,Documentation/Configuration,26,4,15.38,1
+crates+pypi,kn0g/cartesian-tree,Testing/CI,26,2,7.69,1
+crates+pypi,kscalelabs/kscale,Dependency/Packaging,192,50,26.04,1
+crates+pypi,kscalelabs/kscale,API Evolution,192,67,34.90,1
+crates+pypi,kscalelabs/kscale,Runtime/Error Handling,192,10,5.21,1
+crates+pypi,kscalelabs/kscale,Compatibility,192,1,0.52,1
+crates+pypi,kscalelabs/kscale,Documentation/Configuration,192,1,0.52,1
+crates+pypi,kscalelabs/kscale,Testing/CI,192,14,7.29,1
+crates+pypi,kscalelabs/kscale,Other Python Maintenance,192,49,25.52,1
+crates+pypi,latkerlo/latkerlo-jvotci,API Evolution,14,1,7.14,1
+crates+pypi,latkerlo/latkerlo-jvotci,Runtime/Error Handling,14,2,14.29,1
+crates+pypi,latkerlo/latkerlo-jvotci,Compatibility,14,1,7.14,1
+crates+pypi,latkerlo/latkerlo-jvotci,Documentation/Configuration,14,4,28.57,1
+crates+pypi,latkerlo/latkerlo-jvotci,Testing/CI,14,2,14.29,1
+crates+pypi,latkerlo/latkerlo-jvotci,Other Python Maintenance,14,4,28.57,1
+crates+pypi,lindera/lindera-python,Dependency/Packaging,77,65,84.42,1
+crates+pypi,lindera/lindera-python,API Evolution,77,6,7.79,1
+crates+pypi,lindera/lindera-python,Runtime/Error Handling,77,4,5.19,1
+crates+pypi,lindera/lindera-python,Documentation/Configuration,77,2,2.60,1
+crates+pypi,lips7/matcher,Documentation/Configuration,1,1,100.00,1
+crates+pypi,marcosfpr/sealy,Dependency/Packaging,21,11,52.38,1
+crates+pypi,marcosfpr/sealy,Documentation/Configuration,21,8,38.10,1
+crates+pypi,marcosfpr/sealy,Testing/CI,21,2,9.52,1
+crates+pypi,masaishi/skimtoken,Dependency/Packaging,11,2,18.18,1
+crates+pypi,masaishi/skimtoken,API Evolution,11,4,36.36,1
+crates+pypi,masaishi/skimtoken,Runtime/Error Handling,11,2,18.18,1
+crates+pypi,masaishi/skimtoken,Other Python Maintenance,11,3,27.27,1
+crates+pypi,matusf/z-base-32,Dependency/Packaging,52,29,55.77,1
+crates+pypi,matusf/z-base-32,API Evolution,52,4,7.69,1
+crates+pypi,matusf/z-base-32,Documentation/Configuration,52,16,30.77,1
+crates+pypi,matusf/z-base-32,Other Python Maintenance,52,3,5.77,1
+crates+pypi,messense/crfs-rs,Dependency/Packaging,23,17,73.91,1
+crates+pypi,messense/crfs-rs,API Evolution,23,3,13.04,1
+crates+pypi,messense/crfs-rs,Runtime/Error Handling,23,1,4.35,1
+crates+pypi,messense/crfs-rs,Documentation/Configuration,23,2,8.70,1
+crates+pypi,microsoft/tracelogging,Dependency/Packaging,12,8,66.67,1
+crates+pypi,microsoft/tracelogging,API Evolution,12,2,16.67,1
+crates+pypi,microsoft/tracelogging,Other Python Maintenance,12,2,16.67,1
+crates+pypi,mtshiba/pylyzer,Dependency/Packaging,72,52,72.22,1
+crates+pypi,mtshiba/pylyzer,API Evolution,72,11,15.28,1
+crates+pypi,mtshiba/pylyzer,Runtime/Error Handling,72,5,6.94,1
+crates+pypi,mtshiba/pylyzer,Documentation/Configuration,72,1,1.39,1
+crates+pypi,mtshiba/pylyzer,Other Python Maintenance,72,3,4.17,1
+crates+pypi,nnamdi-sys/yahoo-finance-symbols,Dependency/Packaging,1,1,100.00,1
+crates+pypi,nnethercott/toktkn,Dependency/Packaging,5,4,80.00,1
+crates+pypi,nnethercott/toktkn,API Evolution,5,1,20.00,1
+crates+pypi,nominal-io/nominal-streaming,Dependency/Packaging,77,55,71.43,1
+crates+pypi,nominal-io/nominal-streaming,API Evolution,77,6,7.79,1
+crates+pypi,nominal-io/nominal-streaming,Runtime/Error Handling,77,5,6.49,1
+crates+pypi,nominal-io/nominal-streaming,Documentation/Configuration,77,7,9.09,1
+crates+pypi,nominal-io/nominal-streaming,Testing/CI,77,2,2.60,1
+crates+pypi,nominal-io/nominal-streaming,Other Python Maintenance,77,2,2.60,1
+crates+pypi,nucypher/nucypher-core,Dependency/Packaging,128,49,38.28,1
+crates+pypi,nucypher/nucypher-core,API Evolution,128,35,27.34,1
+crates+pypi,nucypher/nucypher-core,Runtime/Error Handling,128,12,9.38,1
+crates+pypi,nucypher/nucypher-core,Documentation/Configuration,128,11,8.59,1
+crates+pypi,nucypher/nucypher-core,Testing/CI,128,4,3.12,1
+crates+pypi,nucypher/nucypher-core,Other Python Maintenance,128,17,13.28,1
+crates+pypi,picovoice/picovoice,Dependency/Packaging,291,155,53.26,1
+crates+pypi,picovoice/picovoice,API Evolution,291,30,10.31,1
+crates+pypi,picovoice/picovoice,Runtime/Error Handling,291,20,6.87,1
+crates+pypi,picovoice/picovoice,Compatibility,291,12,4.12,1
+crates+pypi,picovoice/picovoice,Documentation/Configuration,291,30,10.31,1
+crates+pypi,picovoice/picovoice,Testing/CI,291,3,1.03,1
+crates+pypi,picovoice/picovoice,Other Python Maintenance,291,41,14.09,1
+crates+pypi,pipeless-ai/pipeless,Dependency/Packaging,218,69,31.65,1
+crates+pypi,pipeless-ai/pipeless,API Evolution,218,60,27.52,1
+crates+pypi,pipeless-ai/pipeless,Runtime/Error Handling,218,38,17.43,1
+crates+pypi,pipeless-ai/pipeless,Compatibility,218,1,0.46,1
+crates+pypi,pipeless-ai/pipeless,Documentation/Configuration,218,19,8.72,1
+crates+pypi,pipeless-ai/pipeless,Other Python Maintenance,218,31,14.22,1
+crates+pypi,plasma-blue/mikan-rs,API Evolution,4,4,100.00,1
+crates+pypi,promised-ai/changepoint,Dependency/Packaging,38,17,44.74,1
+crates+pypi,promised-ai/changepoint,API Evolution,38,4,10.53,1
+crates+pypi,promised-ai/changepoint,Runtime/Error Handling,38,6,15.79,1
+crates+pypi,promised-ai/changepoint,Documentation/Configuration,38,2,5.26,1
+crates+pypi,promised-ai/changepoint,Testing/CI,38,9,23.68,1
+crates+pypi,pydantic/jiter,Dependency/Packaging,198,68,34.34,1
+crates+pypi,pydantic/jiter,API Evolution,198,31,15.66,1
+crates+pypi,pydantic/jiter,Runtime/Error Handling,198,28,14.14,1
+crates+pypi,pydantic/jiter,Compatibility,198,9,4.55,1
+crates+pypi,pydantic/jiter,Documentation/Configuration,198,36,18.18,1
+crates+pypi,pydantic/jiter,Testing/CI,198,16,8.08,1
+crates+pypi,pydantic/jiter,Other Python Maintenance,198,10,5.05,1
+crates+pypi,qe-lab/dqcsim,Dependency/Packaging,149,76,51.01,1
+crates+pypi,qe-lab/dqcsim,API Evolution,149,40,26.85,1
+crates+pypi,qe-lab/dqcsim,Runtime/Error Handling,149,7,4.70,1
+crates+pypi,qe-lab/dqcsim,Compatibility,149,3,2.01,1
+crates+pypi,qe-lab/dqcsim,Documentation/Configuration,149,7,4.70,1
+crates+pypi,qe-lab/dqcsim,Testing/CI,149,9,6.04,1
+crates+pypi,qe-lab/dqcsim,Other Python Maintenance,149,7,4.70,1
+crates+pypi,rdbo/libmem,Dependency/Packaging,54,26,48.15,1
+crates+pypi,rdbo/libmem,API Evolution,54,12,22.22,1
+crates+pypi,rdbo/libmem,Runtime/Error Handling,54,4,7.41,1
+crates+pypi,rdbo/libmem,Documentation/Configuration,54,1,1.85,1
+crates+pypi,rdbo/libmem,Testing/CI,54,5,9.26,1
+crates+pypi,rdbo/libmem,Other Python Maintenance,54,6,11.11,1
+crates+pypi,reifydb/reifydb,Other Python Maintenance,1,1,100.00,1
+crates+pypi,rerobots/hardshare,Dependency/Packaging,4,4,100.00,1
+crates+pypi,ringsaturn/reversejp,Dependency/Packaging,26,26,100.00,1
+crates+pypi,sgherbst/svinst,Dependency/Packaging,1,1,100.00,1
+crates+pypi,srv6d/rpsl-parser,Dependency/Packaging,80,41,51.25,1
+crates+pypi,srv6d/rpsl-parser,API Evolution,80,20,25.00,1
+crates+pypi,srv6d/rpsl-parser,Runtime/Error Handling,80,2,2.50,1
+crates+pypi,srv6d/rpsl-parser,Compatibility,80,1,1.25,1
+crates+pypi,srv6d/rpsl-parser,Documentation/Configuration,80,5,6.25,1
+crates+pypi,srv6d/rpsl-parser,Testing/CI,80,6,7.50,1
+crates+pypi,srv6d/rpsl-parser,Other Python Maintenance,80,5,6.25,1
+crates+pypi,storpool/sp-variant,Dependency/Packaging,15,6,40.00,1
+crates+pypi,storpool/sp-variant,API Evolution,15,8,53.33,1
+crates+pypi,storpool/sp-variant,Other Python Maintenance,15,1,6.67,1
+crates+pypi,superdarncanada/dmap,Dependency/Packaging,57,20,35.09,1
+crates+pypi,superdarncanada/dmap,API Evolution,57,23,40.35,1
+crates+pypi,superdarncanada/dmap,Runtime/Error Handling,57,5,8.77,1
+crates+pypi,superdarncanada/dmap,Compatibility,57,1,1.75,1
+crates+pypi,superdarncanada/dmap,Documentation/Configuration,57,2,3.51,1
+crates+pypi,superdarncanada/dmap,Testing/CI,57,2,3.51,1
+crates+pypi,superdarncanada/dmap,Other Python Maintenance,57,4,7.02,1
+crates+pypi,tailix/libkernaux,Dependency/Packaging,20,10,50.00,1
+crates+pypi,tailix/libkernaux,Runtime/Error Handling,20,3,15.00,1
+crates+pypi,tailix/libkernaux,Compatibility,20,1,5.00,1
+crates+pypi,tailix/libkernaux,Documentation/Configuration,20,3,15.00,1
+crates+pypi,tailix/libkernaux,Testing/CI,20,2,10.00,1
+crates+pypi,tailix/libkernaux,Other Python Maintenance,20,1,5.00,1
+crates+pypi,tallamjr/evlib,Dependency/Packaging,94,50,53.19,1
+crates+pypi,tallamjr/evlib,API Evolution,94,37,39.36,1
+crates+pypi,tallamjr/evlib,Runtime/Error Handling,94,3,3.19,1
+crates+pypi,tallamjr/evlib,Documentation/Configuration,94,3,3.19,1
+crates+pypi,tallamjr/evlib,Other Python Maintenance,94,1,1.06,1
+crates+pypi,tamasfe/taplo,Dependency/Packaging,77,67,87.01,1
+crates+pypi,tamasfe/taplo,API Evolution,77,2,2.60,1
+crates+pypi,tamasfe/taplo,Runtime/Error Handling,77,2,2.60,1
+crates+pypi,tamasfe/taplo,Documentation/Configuration,77,6,7.79,1
+crates+pypi,tdittr/histongram,Dependency/Packaging,41,36,87.80,1
+crates+pypi,tdittr/histongram,API Evolution,41,3,7.32,1
+crates+pypi,tdittr/histongram,Runtime/Error Handling,41,1,2.44,1
+crates+pypi,tdittr/histongram,Other Python Maintenance,41,1,2.44,1
+crates+pypi,terror/pyproject,Dependency/Packaging,14,5,35.71,1
+crates+pypi,terror/pyproject,API Evolution,14,6,42.86,1
+crates+pypi,terror/pyproject,Other Python Maintenance,14,3,21.43,1
+crates+pypi,thatxliner/interprog,Dependency/Packaging,27,20,74.07,1
+crates+pypi,thatxliner/interprog,Documentation/Configuration,27,3,11.11,1
+crates+pypi,thatxliner/interprog,Testing/CI,27,1,3.70,1
+crates+pypi,thatxliner/interprog,Other Python Maintenance,27,3,11.11,1
+crates+pypi,tuskanny/kannolo,Dependency/Packaging,9,3,33.33,1
+crates+pypi,tuskanny/kannolo,API Evolution,9,2,22.22,1
+crates+pypi,tuskanny/kannolo,Runtime/Error Handling,9,2,22.22,1
+crates+pypi,tuskanny/kannolo,Documentation/Configuration,9,1,11.11,1
+crates+pypi,tuskanny/kannolo,Other Python Maintenance,9,1,11.11,1
+crates+pypi,tzador/makedown,API Evolution,6,2,33.33,1
+crates+pypi,tzador/makedown,Runtime/Error Handling,6,2,33.33,1
+crates+pypi,tzador/makedown,Other Python Maintenance,6,2,33.33,1
+crates+pypi,udoprog/ontv,Dependency/Packaging,1,1,100.00,1
+crates+pypi,ufrisk/memprocfs,Dependency/Packaging,57,19,33.33,1
+crates+pypi,ufrisk/memprocfs,API Evolution,57,26,45.61,1
+crates+pypi,ufrisk/memprocfs,Runtime/Error Handling,57,4,7.02,1
+crates+pypi,ufrisk/memprocfs,Compatibility,57,2,3.51,1
+crates+pypi,ufrisk/memprocfs,Documentation/Configuration,57,1,1.75,1
+crates+pypi,ufrisk/memprocfs,Testing/CI,57,1,1.75,1
+crates+pypi,ufrisk/memprocfs,Other Python Maintenance,57,4,7.02,1
+crates+pypi,uyha/tree-sitter-cmake,Dependency/Packaging,3,3,100.00,1
+crates+pypi,wall-ee/chinese2digits,Dependency/Packaging,12,1,8.33,1
+crates+pypi,wall-ee/chinese2digits,API Evolution,12,2,16.67,1
+crates+pypi,wall-ee/chinese2digits,Runtime/Error Handling,12,2,16.67,1
+crates+pypi,wall-ee/chinese2digits,Documentation/Configuration,12,1,8.33,1
+crates+pypi,wall-ee/chinese2digits,Other Python Maintenance,12,6,50.00,1
+crates+pypi,waynexia/ultraloglog,Dependency/Packaging,5,5,100.00,1
+crates+pypi,welpo/git-sumi,Dependency/Packaging,42,42,100.00,1
+crates+pypi,wenig/meanshift-rs,Dependency/Packaging,2,2,100.00,1
+crates+pypi,williamfzc/gossiphs,Dependency/Packaging,9,5,55.56,1
+crates+pypi,williamfzc/gossiphs,API Evolution,9,1,11.11,1
+crates+pypi,williamfzc/gossiphs,Documentation/Configuration,9,1,11.11,1
+crates+pypi,williamfzc/gossiphs,Other Python Maintenance,9,2,22.22,1
+crates+pypi,xorpse/parascope,Dependency/Packaging,2,2,100.00,1
+crates+pypi,yayami3/py-license-auditor,Dependency/Packaging,1,1,100.00,1
+crates+pypi,yenyen1/seqtk-rs,Dependency/Packaging,1,1,100.00,1
+crates+pypi,yfedoseev/sketch_oxide,Dependency/Packaging,10,9,90.00,1
+crates+pypi,yfedoseev/sketch_oxide,API Evolution,10,1,10.00,1
+crates+pypi,yijunyu/tree-sitter-parsers,Dependency/Packaging,1,1,100.00,1
+crates+pypi,yosina-lib/yosina,Dependency/Packaging,26,6,23.08,1
+crates+pypi,yosina-lib/yosina,API Evolution,26,7,26.92,1
+crates+pypi,yosina-lib/yosina,Runtime/Error Handling,26,10,38.46,1
+crates+pypi,yosina-lib/yosina,Testing/CI,26,2,7.69,1
+crates+pypi,yosina-lib/yosina,Other Python Maintenance,26,1,3.85,1
+crates+pypi,yuewuo/fusion-blossom,Dependency/Packaging,118,16,13.56,1
+crates+pypi,yuewuo/fusion-blossom,API Evolution,118,39,33.05,1
+crates+pypi,yuewuo/fusion-blossom,Runtime/Error Handling,118,5,4.24,1
+crates+pypi,yuewuo/fusion-blossom,Documentation/Configuration,118,49,41.53,1
+crates+pypi,yuewuo/fusion-blossom,Testing/CI,118,4,3.39,1
+crates+pypi,yuewuo/fusion-blossom,Other Python Maintenance,118,5,4.24,1
+crates+pypi,yuewuo/qec-playground,Dependency/Packaging,196,78,39.80,1
+crates+pypi,yuewuo/qec-playground,API Evolution,196,48,24.49,1
+crates+pypi,yuewuo/qec-playground,Runtime/Error Handling,196,10,5.10,1
+crates+pypi,yuewuo/qec-playground,Documentation/Configuration,196,34,17.35,1
+crates+pypi,yuewuo/qec-playground,Testing/CI,196,10,5.10,1
+crates+pypi,yuewuo/qec-playground,Other Python Maintenance,196,16,8.16,1
+crates+pypi,yummyml/yummy,Dependency/Packaging,51,31,60.78,1
+crates+pypi,yummyml/yummy,API Evolution,51,9,17.65,1
+crates+pypi,yummyml/yummy,Runtime/Error Handling,51,8,15.69,1
+crates+pypi,yummyml/yummy,Documentation/Configuration,51,1,1.96,1
+crates+pypi,yummyml/yummy,Other Python Maintenance,51,2,3.92,1
+crates+pypi,zcred/zsession,Dependency/Packaging,4,4,100.00,1
+crates+pypi,zdz/serverstatus-rust,Dependency/Packaging,42,18,42.86,1
+crates+pypi,zdz/serverstatus-rust,API Evolution,42,10,23.81,1
+crates+pypi,zdz/serverstatus-rust,Runtime/Error Handling,42,6,14.29,1
+crates+pypi,zdz/serverstatus-rust,Other Python Maintenance,42,8,19.05,1
+crates+pypi,zensical/zensical,Dependency/Packaging,490,137,27.96,1
+crates+pypi,zensical/zensical,API Evolution,490,103,21.02,1
+crates+pypi,zensical/zensical,Runtime/Error Handling,490,186,37.96,1
+crates+pypi,zensical/zensical,Compatibility,490,4,0.82,1
+crates+pypi,zensical/zensical,Documentation/Configuration,490,28,5.71,1
+crates+pypi,zensical/zensical,Testing/CI,490,4,0.82,1
+crates+pypi,zensical/zensical,Other Python Maintenance,490,28,5.71,1
+crates+pypi,zensical/zrx,Dependency/Packaging,30,24,80.00,1
+crates+pypi,zensical/zrx,Runtime/Error Handling,30,3,10.00,1
+crates+pypi,zensical/zrx,Documentation/Configuration,30,3,10.00,1
+crates+pypi,zxcalc/quizx,Dependency/Packaging,98,64,65.31,1
+crates+pypi,zxcalc/quizx,API Evolution,98,10,10.20,1
+crates+pypi,zxcalc/quizx,Runtime/Error Handling,98,4,4.08,1
+crates+pypi,zxcalc/quizx,Documentation/Configuration,98,7,7.14,1
+crates+pypi,zxcalc/quizx,Testing/CI,98,3,3.06,1
+crates+pypi,zxcalc/quizx,Other Python Maintenance,98,10,10.20,1
+crates+pypi,zxing-cpp/zxing-cpp,Dependency/Packaging,219,133,60.73,1
+crates+pypi,zxing-cpp/zxing-cpp,API Evolution,219,45,20.55,1
+crates+pypi,zxing-cpp/zxing-cpp,Runtime/Error Handling,219,9,4.11,1
+crates+pypi,zxing-cpp/zxing-cpp,Compatibility,219,3,1.37,1
+crates+pypi,zxing-cpp/zxing-cpp,Documentation/Configuration,219,4,1.83,1
+crates+pypi,zxing-cpp/zxing-cpp,Testing/CI,219,8,3.65,1
+crates+pypi,zxing-cpp/zxing-cpp,Other Python Maintenance,219,17,7.76,1
+maven+pypi,alexa/alexa-apis-for-python,Dependency/Packaging,45,34,75.56,1
+maven+pypi,alexa/alexa-apis-for-python,API Evolution,45,6,13.33,1
+maven+pypi,alexa/alexa-apis-for-python,Runtime/Error Handling,45,4,8.89,1
+maven+pypi,alexa/alexa-apis-for-python,Other Python Maintenance,45,1,2.22,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Dependency/Packaging,334,197,58.98,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,API Evolution,334,74,22.16,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Runtime/Error Handling,334,26,7.78,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Compatibility,334,3,0.90,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Documentation/Configuration,334,6,1.80,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Testing/CI,334,10,2.99,1
+maven+pypi,alexa/alexa-skills-kit-sdk-for-python,Other Python Maintenance,334,18,5.39,1
+npm+pypi,alexschimpf/flagship,API Evolution,2,1,50.00,1
+npm+pypi,alexschimpf/flagship,Documentation/Configuration,2,1,50.00,1
+npm+pypi,allanchain/jupyterlab-theme-solarized-dark,Dependency/Packaging,6,5,83.33,1
+npm+pypi,allanchain/jupyterlab-theme-solarized-dark,Documentation/Configuration,6,1,16.67,1
+npm+pypi,alma-cdk/openapix,Dependency/Packaging,5,5,100.00,1
+npm+pypi,alma-cdk/project,Dependency/Packaging,2,2,100.00,1
+npm+pypi,alpinebuster/meshsdk,Dependency/Packaging,29,22,75.86,1
+npm+pypi,alpinebuster/meshsdk,API Evolution,29,2,6.90,1
+npm+pypi,alpinebuster/meshsdk,Runtime/Error Handling,29,4,13.79,1
+npm+pypi,alpinebuster/meshsdk,Other Python Maintenance,29,1,3.45,1
+npm+pypi,alvyn279/aws-cdk-billing-alarm,Dependency/Packaging,6,4,66.67,1
+npm+pypi,alvyn279/aws-cdk-billing-alarm,API Evolution,6,1,16.67,1
+npm+pypi,alvyn279/aws-cdk-billing-alarm,Documentation/Configuration,6,1,16.67,1
+npm+pypi,andriiryzhkov/dash-chat-components,Dependency/Packaging,23,10,43.48,1
+npm+pypi,andriiryzhkov/dash-chat-components,API Evolution,23,3,13.04,1
+npm+pypi,andriiryzhkov/dash-chat-components,Runtime/Error Handling,23,7,30.43,1
+npm+pypi,andriiryzhkov/dash-chat-components,Other Python Maintenance,23,3,13.04,1
+npm+pypi,ankushdixit/solokit,Dependency/Packaging,491,223,45.42,1
+npm+pypi,ankushdixit/solokit,API Evolution,491,154,31.36,1
+npm+pypi,ankushdixit/solokit,Runtime/Error Handling,491,83,16.90,1
+npm+pypi,ankushdixit/solokit,Compatibility,491,2,0.41,1
+npm+pypi,ankushdixit/solokit,Documentation/Configuration,491,16,3.26,1
+npm+pypi,ankushdixit/solokit,Testing/CI,491,10,2.04,1
+npm+pypi,ankushdixit/solokit,Other Python Maintenance,491,3,0.61,1
+npm+pypi,aolney/jupyterlab-blockly-python-extension,Dependency/Packaging,11,6,54.55,1
+npm+pypi,aolney/jupyterlab-blockly-python-extension,API Evolution,11,2,18.18,1
+npm+pypi,aolney/jupyterlab-blockly-python-extension,Runtime/Error Handling,11,1,9.09,1
+npm+pypi,aolney/jupyterlab-blockly-python-extension,Other Python Maintenance,11,2,18.18,1
+npm+pypi,appfirst/statsd_clients,API Evolution,13,3,23.08,1
+npm+pypi,appfirst/statsd_clients,Runtime/Error Handling,13,2,15.38,1
+npm+pypi,appfirst/statsd_clients,Compatibility,13,2,15.38,1
+npm+pypi,appfirst/statsd_clients,Documentation/Configuration,13,5,38.46,1
+npm+pypi,appfirst/statsd_clients,Other Python Maintenance,13,1,7.69,1
+npm+pypi,arelle/ixbrl-viewer,Dependency/Packaging,772,424,54.92,1
+npm+pypi,arelle/ixbrl-viewer,API Evolution,772,118,15.28,1
+npm+pypi,arelle/ixbrl-viewer,Runtime/Error Handling,772,67,8.68,1
+npm+pypi,arelle/ixbrl-viewer,Compatibility,772,6,0.78,1
+npm+pypi,arelle/ixbrl-viewer,Documentation/Configuration,772,25,3.24,1
+npm+pypi,arelle/ixbrl-viewer,Testing/CI,772,34,4.40,1
+npm+pypi,arelle/ixbrl-viewer,Other Python Maintenance,772,98,12.69,1
+npm+pypi,artconomy/short_stuff,Dependency/Packaging,7,4,57.14,1
+npm+pypi,artconomy/short_stuff,API Evolution,7,1,14.29,1
+npm+pypi,artconomy/short_stuff,Documentation/Configuration,7,1,14.29,1
+npm+pypi,artconomy/short_stuff,Testing/CI,7,1,14.29,1
+npm+pypi,asg017/sqlite-http,Other Python Maintenance,1,1,100.00,1
+npm+pypi,ballet/ballet-assemble,Dependency/Packaging,17,10,58.82,1
+npm+pypi,ballet/ballet-assemble,API Evolution,17,2,11.76,1
+npm+pypi,ballet/ballet-assemble,Runtime/Error Handling,17,1,5.88,1
+npm+pypi,ballet/ballet-assemble,Documentation/Configuration,17,2,11.76,1
+npm+pypi,ballet/ballet-assemble,Other Python Maintenance,17,2,11.76,1
+npm+pypi,bentoml/openllm,Dependency/Packaging,1612,789,48.95,1
+npm+pypi,bentoml/openllm,API Evolution,1612,199,12.34,1
+npm+pypi,bentoml/openllm,Runtime/Error Handling,1612,242,15.01,1
+npm+pypi,bentoml/openllm,Compatibility,1612,19,1.18,1
+npm+pypi,bentoml/openllm,Documentation/Configuration,1612,132,8.19,1
+npm+pypi,bentoml/openllm,Testing/CI,1612,80,4.96,1
+npm+pypi,bentoml/openllm,Other Python Maintenance,1612,151,9.37,1
+npm+pypi,bernhard-42/cad-viewer-widget,Dependency/Packaging,4,2,50.00,1
+npm+pypi,bernhard-42/cad-viewer-widget,API Evolution,4,1,25.00,1
+npm+pypi,bernhard-42/cad-viewer-widget,Runtime/Error Handling,4,1,25.00,1
+npm+pypi,bgreengo/cdk-noob,Dependency/Packaging,53,53,100.00,1
+npm+pypi,blackplums/how2validate,Dependency/Packaging,37,18,48.65,1
+npm+pypi,blackplums/how2validate,API Evolution,37,9,24.32,1
+npm+pypi,blackplums/how2validate,Runtime/Error Handling,37,3,8.11,1
+npm+pypi,blackplums/how2validate,Documentation/Configuration,37,6,16.22,1
+npm+pypi,blackplums/how2validate,Other Python Maintenance,37,1,2.70,1
+npm+pypi,bobmatnyc/claude-multiagent-pm,Dependency/Packaging,3,1,33.33,1
+npm+pypi,bobmatnyc/claude-multiagent-pm,API Evolution,3,2,66.67,1
+npm+pypi,boyuai/ipyturtle2,Dependency/Packaging,12,6,50.00,1
+npm+pypi,boyuai/ipyturtle2,API Evolution,12,1,8.33,1
+npm+pypi,boyuai/ipyturtle2,Documentation/Configuration,12,5,41.67,1
+npm+pypi,bqplot/bqplot-gl,Dependency/Packaging,25,17,68.00,1
+npm+pypi,bqplot/bqplot-gl,API Evolution,25,4,16.00,1
+npm+pypi,bqplot/bqplot-gl,Other Python Maintenance,25,4,16.00,1
+npm+pypi,brondavies/filetypetranslator,Dependency/Packaging,2,2,100.00,1
+npm+pypi,brysgo/libgql,Dependency/Packaging,14,11,78.57,1
+npm+pypi,brysgo/libgql,Runtime/Error Handling,14,3,21.43,1
+npm+pypi,cargo-lambda/cargo-lambda-cdk,Dependency/Packaging,5,4,80.00,1
+npm+pypi,cargo-lambda/cargo-lambda-cdk,API Evolution,5,1,20.00,1
+npm+pypi,catboost/catboost,Dependency/Packaging,2052,1669,81.34,1
+npm+pypi,catboost/catboost,API Evolution,2052,177,8.63,1
+npm+pypi,catboost/catboost,Runtime/Error Handling,2052,78,3.80,1
+npm+pypi,catboost/catboost,Compatibility,2052,18,0.88,1
+npm+pypi,catboost/catboost,Documentation/Configuration,2052,41,2.00,1
+npm+pypi,catboost/catboost,Testing/CI,2052,32,1.56,1
+npm+pypi,catboost/catboost,Other Python Maintenance,2052,37,1.80,1
+npm+pypi,christowles/towles-tool,Dependency/Packaging,10,5,50.00,1
+npm+pypi,christowles/towles-tool,API Evolution,10,4,40.00,1
+npm+pypi,christowles/towles-tool,Testing/CI,10,1,10.00,1
+npm+pypi,cloudbauer/cdk-dev-cloud-constructs,Dependency/Packaging,2,2,100.00,1
+npm+pypi,cloudsnorkel/cdk-rds-sanitized-snapshots,Dependency/Packaging,1,1,100.00,1
+npm+pypi,cnfeffery/feffery-maplibre,Dependency/Packaging,3,2,66.67,1
+npm+pypi,cnfeffery/feffery-maplibre,Documentation/Configuration,3,1,33.33,1
+npm+pypi,cnfeffery/feffery-markdown-components,Dependency/Packaging,2,2,100.00,1
+npm+pypi,collynes/glancewatch,Dependency/Packaging,3,3,100.00,1
+npm+pypi,controlnet/mita,Dependency/Packaging,3,1,33.33,1
+npm+pypi,controlnet/mita,API Evolution,3,1,33.33,1
+npm+pypi,controlnet/mita,Other Python Maintenance,3,1,33.33,1
+npm+pypi,convo-lang/convo-lang,Dependency/Packaging,124,35,28.23,1
+npm+pypi,convo-lang/convo-lang,API Evolution,124,74,59.68,1
+npm+pypi,convo-lang/convo-lang,Runtime/Error Handling,124,8,6.45,1
+npm+pypi,convo-lang/convo-lang,Documentation/Configuration,124,5,4.03,1
+npm+pypi,convo-lang/convo-lang,Testing/CI,124,1,0.81,1
+npm+pypi,convo-lang/convo-lang,Other Python Maintenance,124,1,0.81,1
+npm+pypi,corymhall/pulumi-projen-project-types,Dependency/Packaging,19,15,78.95,1
+npm+pypi,corymhall/pulumi-projen-project-types,API Evolution,19,2,10.53,1
+npm+pypi,corymhall/pulumi-projen-project-types,Runtime/Error Handling,19,1,5.26,1
+npm+pypi,corymhall/pulumi-projen-project-types,Other Python Maintenance,19,1,5.26,1
+npm+pypi,ctfer-io/pulumi-ctfdcm,Dependency/Packaging,130,125,96.15,1
+npm+pypi,ctfer-io/pulumi-ctfdcm,Compatibility,130,2,1.54,1
+npm+pypi,ctfer-io/pulumi-ctfdcm,Documentation/Configuration,130,3,2.31,1
+npm+pypi,danielhstahl/getsshpubkey,Dependency/Packaging,6,6,100.00,1
+npm+pypi,dariusk/wordfilter,Dependency/Packaging,45,14,31.11,1
+npm+pypi,dariusk/wordfilter,API Evolution,45,7,15.56,1
+npm+pypi,dariusk/wordfilter,Runtime/Error Handling,45,6,13.33,1
+npm+pypi,dariusk/wordfilter,Compatibility,45,4,8.89,1
+npm+pypi,dariusk/wordfilter,Documentation/Configuration,45,6,13.33,1
+npm+pypi,dariusk/wordfilter,Testing/CI,45,5,11.11,1
+npm+pypi,dariusk/wordfilter,Other Python Maintenance,45,3,6.67,1
+npm+pypi,dyne/zenroom,Dependency/Packaging,223,132,59.19,1
+npm+pypi,dyne/zenroom,API Evolution,223,18,8.07,1
+npm+pypi,dyne/zenroom,Runtime/Error Handling,223,19,8.52,1
+npm+pypi,dyne/zenroom,Compatibility,223,14,6.28,1
+npm+pypi,dyne/zenroom,Documentation/Configuration,223,38,17.04,1
+npm+pypi,dyne/zenroom,Testing/CI,223,1,0.45,1
+npm+pypi,dyne/zenroom,Other Python Maintenance,223,1,0.45,1
+npm+pypi,e2b-dev/mcp-server,Dependency/Packaging,38,32,84.21,1
+npm+pypi,e2b-dev/mcp-server,API Evolution,38,1,2.63,1
+npm+pypi,e2b-dev/mcp-server,Compatibility,38,3,7.89,1
+npm+pypi,e2b-dev/mcp-server,Other Python Maintenance,38,2,5.26,1
+npm+pypi,elegantdevelopment/aws-cdk-featureflags,Dependency/Packaging,1,1,100.00,1
+npm+pypi,evilmartians/lefthook,Dependency/Packaging,47,41,87.23,1
+npm+pypi,evilmartians/lefthook,API Evolution,47,3,6.38,1
+npm+pypi,evilmartians/lefthook,Runtime/Error Handling,47,1,2.13,1
+npm+pypi,evilmartians/lefthook,Documentation/Configuration,47,2,4.26,1
+npm+pypi,geo-engine/openapi-client,Dependency/Packaging,245,107,43.67,1
+npm+pypi,geo-engine/openapi-client,API Evolution,245,83,33.88,1
+npm+pypi,geo-engine/openapi-client,Runtime/Error Handling,245,11,4.49,1
+npm+pypi,geo-engine/openapi-client,Documentation/Configuration,245,28,11.43,1
+npm+pypi,geo-engine/openapi-client,Testing/CI,245,2,0.82,1
+npm+pypi,geo-engine/openapi-client,Other Python Maintenance,245,14,5.71,1
+npm+pypi,getsentry/sentry-cli,Dependency/Packaging,99,64,64.65,1
+npm+pypi,getsentry/sentry-cli,API Evolution,99,13,13.13,1
+npm+pypi,getsentry/sentry-cli,Runtime/Error Handling,99,4,4.04,1
+npm+pypi,getsentry/sentry-cli,Documentation/Configuration,99,18,18.18,1
+npm+pypi,guilhermeleobas/cftool,Dependency/Packaging,36,9,25.00,1
+npm+pypi,guilhermeleobas/cftool,API Evolution,36,6,16.67,1
+npm+pypi,guilhermeleobas/cftool,Runtime/Error Handling,36,3,8.33,1
+npm+pypi,guilhermeleobas/cftool,Documentation/Configuration,36,3,8.33,1
+npm+pypi,guilhermeleobas/cftool,Testing/CI,36,11,30.56,1
+npm+pypi,guilhermeleobas/cftool,Other Python Maintenance,36,4,11.11,1
+npm+pypi,hamsunwoo/banner_hamsunwoo,Dependency/Packaging,4,3,75.00,1
+npm+pypi,hamsunwoo/banner_hamsunwoo,API Evolution,4,1,25.00,1
+npm+pypi,hapticx/happyx,Dependency/Packaging,33,13,39.39,1
+npm+pypi,hapticx/happyx,API Evolution,33,7,21.21,1
+npm+pypi,hapticx/happyx,Runtime/Error Handling,33,6,18.18,1
+npm+pypi,hapticx/happyx,Documentation/Configuration,33,2,6.06,1
+npm+pypi,hapticx/happyx,Testing/CI,33,1,3.03,1
+npm+pypi,hapticx/happyx,Other Python Maintenance,33,4,12.12,1
+npm+pypi,hfailab/jupyterlab_tensorboard_pro,Dependency/Packaging,16,11,68.75,1
+npm+pypi,hfailab/jupyterlab_tensorboard_pro,API Evolution,16,2,12.50,1
+npm+pypi,hfailab/jupyterlab_tensorboard_pro,Compatibility,16,1,6.25,1
+npm+pypi,hfailab/jupyterlab_tensorboard_pro,Other Python Maintenance,16,2,12.50,1
+npm+pypi,jesse-ai/jesse,Dependency/Packaging,1163,359,30.87,1
+npm+pypi,jesse-ai/jesse,API Evolution,1163,348,29.92,1
+npm+pypi,jesse-ai/jesse,Runtime/Error Handling,1163,133,11.44,1
+npm+pypi,jesse-ai/jesse,Compatibility,1163,7,0.60,1
+npm+pypi,jesse-ai/jesse,Documentation/Configuration,1163,36,3.10,1
+npm+pypi,jesse-ai/jesse,Testing/CI,1163,56,4.82,1
+npm+pypi,jesse-ai/jesse,Other Python Maintenance,1163,224,19.26,1
+npm+pypi,jihyungsong/github-action-course,Dependency/Packaging,3,3,100.00,1
+npm+pypi,joelforamitti/ipysimulate,Dependency/Packaging,1,1,100.00,1
+npm+pypi,johnpreston/aws-cfn-confluentcloud-iam-serviceaccount,Dependency/Packaging,3,3,100.00,1
+npm+pypi,jupyterlab-contrib/jupyterlab-pytutor,Dependency/Packaging,8,5,62.50,1
+npm+pypi,jupyterlab-contrib/jupyterlab-pytutor,API Evolution,8,1,12.50,1
+npm+pypi,jupyterlab-contrib/jupyterlab-pytutor,Runtime/Error Handling,8,1,12.50,1
+npm+pypi,jupyterlab-contrib/jupyterlab-pytutor,Other Python Maintenance,8,1,12.50,1
+npm+pypi,jupyterlab-contrib/jupyterlab-tour,Dependency/Packaging,23,20,86.96,1
+npm+pypi,jupyterlab-contrib/jupyterlab-tour,Runtime/Error Handling,23,2,8.70,1
+npm+pypi,jupyterlab-contrib/jupyterlab-tour,Compatibility,23,1,4.35,1
+npm+pypi,jupyterlite/echo-kernel,Dependency/Packaging,8,8,100.00,1
+npm+pypi,jupyterlite/terminal,Dependency/Packaging,23,16,69.57,1
+npm+pypi,jupyterlite/terminal,API Evolution,23,7,30.43,1
+npm+pypi,justrach/satya-zig,Dependency/Packaging,127,61,48.03,1
+npm+pypi,justrach/satya-zig,API Evolution,127,59,46.46,1
+npm+pypi,justrach/satya-zig,Runtime/Error Handling,127,1,0.79,1
+npm+pypi,justrach/satya-zig,Compatibility,127,1,0.79,1
+npm+pypi,justrach/satya-zig,Documentation/Configuration,127,4,3.15,1
+npm+pypi,justrach/satya-zig,Testing/CI,127,1,0.79,1
+npm+pypi,kaleidoswap/kaleido-sdk,Dependency/Packaging,72,37,51.39,1
+npm+pypi,kaleidoswap/kaleido-sdk,API Evolution,72,25,34.72,1
+npm+pypi,kaleidoswap/kaleido-sdk,Runtime/Error Handling,72,6,8.33,1
+npm+pypi,kaleidoswap/kaleido-sdk,Testing/CI,72,4,5.56,1
+npm+pypi,kcwinner/cdk-appsync-transformer,Dependency/Packaging,63,63,100.00,1
+npm+pypi,lbrlabs/pulumi-aws-tailscale,Dependency/Packaging,113,99,87.61,1
+npm+pypi,lbrlabs/pulumi-aws-tailscale,API Evolution,113,11,9.73,1
+npm+pypi,lbrlabs/pulumi-aws-tailscale,Documentation/Configuration,113,3,2.65,1
+npm+pypi,lewkoo/dashvis,Dependency/Packaging,3,3,100.00,1
+npm+pypi,lokwkin/steps-track,Dependency/Packaging,28,15,53.57,1
+npm+pypi,lokwkin/steps-track,API Evolution,28,4,14.29,1
+npm+pypi,lokwkin/steps-track,Runtime/Error Handling,28,4,14.29,1
+npm+pypi,lokwkin/steps-track,Documentation/Configuration,28,2,7.14,1
+npm+pypi,lokwkin/steps-track,Testing/CI,28,3,10.71,1
+npm+pypi,lukeshay/pulumi-flyio,Dependency/Packaging,7,7,100.00,1
+npm+pypi,lux-org/lux-widget,Dependency/Packaging,168,106,63.10,1
+npm+pypi,lux-org/lux-widget,API Evolution,168,5,2.98,1
+npm+pypi,lux-org/lux-widget,Runtime/Error Handling,168,6,3.57,1
+npm+pypi,lux-org/lux-widget,Compatibility,168,1,0.60,1
+npm+pypi,lux-org/lux-widget,Documentation/Configuration,168,1,0.60,1
+npm+pypi,lux-org/lux-widget,Other Python Maintenance,168,49,29.17,1
+npm+pypi,magland/pairio,Dependency/Packaging,11,2,18.18,1
+npm+pypi,magland/pairio,API Evolution,11,1,9.09,1
+npm+pypi,magland/pairio,Runtime/Error Handling,11,2,18.18,1
+npm+pypi,magland/pairio,Other Python Maintenance,11,6,54.55,1
+npm+pypi,mammut-io/brat-widget,Dependency/Packaging,1,1,100.00,1
+npm+pypi,medialab/ipysigma,Dependency/Packaging,31,14,45.16,1
+npm+pypi,medialab/ipysigma,API Evolution,31,7,22.58,1
+npm+pypi,medialab/ipysigma,Runtime/Error Handling,31,1,3.23,1
+npm+pypi,medialab/ipysigma,Documentation/Configuration,31,3,9.68,1
+npm+pypi,medialab/ipysigma,Testing/CI,31,3,9.68,1
+npm+pypi,medialab/ipysigma,Other Python Maintenance,31,3,9.68,1
+npm+pypi,mwakaba2/jupyterlab-notifications,Dependency/Packaging,8,7,87.50,1
+npm+pypi,mwakaba2/jupyterlab-notifications,API Evolution,8,1,12.50,1
+npm+pypi,myhelix/multi-convention-namer,Dependency/Packaging,4,4,100.00,1
+npm+pypi,nideveloper/cdk-lambda-powertuner,Dependency/Packaging,1,1,100.00,1
+npm+pypi,ninoseki/arakawa,Dependency/Packaging,146,67,45.89,1
+npm+pypi,ninoseki/arakawa,API Evolution,146,24,16.44,1
+npm+pypi,ninoseki/arakawa,Runtime/Error Handling,146,30,20.55,1
+npm+pypi,ninoseki/arakawa,Documentation/Configuration,146,5,3.42,1
+npm+pypi,ninoseki/arakawa,Testing/CI,146,9,6.16,1
+npm+pypi,ninoseki/arakawa,Other Python Maintenance,146,11,7.53,1
+npm+pypi,nizos/tdd-guard,Dependency/Packaging,33,16,48.48,1
+npm+pypi,nizos/tdd-guard,API Evolution,33,10,30.30,1
+npm+pypi,nizos/tdd-guard,Runtime/Error Handling,33,5,15.15,1
+npm+pypi,nizos/tdd-guard,Testing/CI,33,2,6.06,1
+npm+pypi,paulgb/simplediff,Dependency/Packaging,17,6,35.29,1
+npm+pypi,paulgb/simplediff,API Evolution,17,2,11.76,1
+npm+pypi,paulgb/simplediff,Runtime/Error Handling,17,3,17.65,1
+npm+pypi,paulgb/simplediff,Compatibility,17,1,5.88,1
+npm+pypi,paulgb/simplediff,Documentation/Configuration,17,1,5.88,1
+npm+pypi,paulgb/simplediff,Testing/CI,17,2,11.76,1
+npm+pypi,paulgb/simplediff,Other Python Maintenance,17,2,11.76,1
+npm+pypi,pcaversaccio/snekmate,Dependency/Packaging,66,39,59.09,1
+npm+pypi,pcaversaccio/snekmate,API Evolution,66,10,15.15,1
+npm+pypi,pcaversaccio/snekmate,Runtime/Error Handling,66,4,6.06,1
+npm+pypi,pcaversaccio/snekmate,Compatibility,66,5,7.58,1
+npm+pypi,pcaversaccio/snekmate,Documentation/Configuration,66,5,7.58,1
+npm+pypi,pcaversaccio/snekmate,Testing/CI,66,1,1.52,1
+npm+pypi,pcaversaccio/snekmate,Other Python Maintenance,66,2,3.03,1
+npm+pypi,pepperize/cdk-github,Dependency/Packaging,35,35,100.00,1
+npm+pypi,pepperize/cdk-lambda-deno,Dependency/Packaging,29,29,100.00,1
+npm+pypi,preftech/dash-tabulator,Dependency/Packaging,16,10,62.50,1
+npm+pypi,preftech/dash-tabulator,API Evolution,16,4,25.00,1
+npm+pypi,preftech/dash-tabulator,Documentation/Configuration,16,1,6.25,1
+npm+pypi,preftech/dash-tabulator,Other Python Maintenance,16,1,6.25,1
+npm+pypi,psychrometrics/psychrolib,Dependency/Packaging,156,34,21.79,1
+npm+pypi,psychrometrics/psychrolib,API Evolution,156,50,32.05,1
+npm+pypi,psychrometrics/psychrolib,Runtime/Error Handling,156,15,9.62,1
+npm+pypi,psychrometrics/psychrolib,Compatibility,156,3,1.92,1
+npm+pypi,psychrometrics/psychrolib,Documentation/Configuration,156,16,10.26,1
+npm+pypi,psychrometrics/psychrolib,Testing/CI,156,9,5.77,1
+npm+pypi,psychrometrics/psychrolib,Other Python Maintenance,156,29,18.59,1
+npm+pypi,pulumi/pulumi-mongodbatlas,Dependency/Packaging,405,189,46.67,1
+npm+pypi,pulumi/pulumi-mongodbatlas,API Evolution,405,1,0.25,1
+npm+pypi,pulumi/pulumi-mongodbatlas,Runtime/Error Handling,405,2,0.49,1
+npm+pypi,pulumi/pulumi-mongodbatlas,Compatibility,405,8,1.98,1
+npm+pypi,pulumi/pulumi-mongodbatlas,Documentation/Configuration,405,127,31.36,1
+npm+pypi,pulumi/pulumi-mongodbatlas,Other Python Maintenance,405,78,19.26,1
+npm+pypi,pulumi/pulumi-null,Dependency/Packaging,246,154,62.60,1
+npm+pypi,pulumi/pulumi-null,Runtime/Error Handling,246,4,1.63,1
+npm+pypi,pulumi/pulumi-null,Documentation/Configuration,246,20,8.13,1
+npm+pypi,pulumi/pulumi-null,Other Python Maintenance,246,68,27.64,1
+npm+pypi,pulumi/pulumi-opsgenie,Dependency/Packaging,199,114,57.29,1
+npm+pypi,pulumi/pulumi-opsgenie,API Evolution,199,2,1.01,1
+npm+pypi,pulumi/pulumi-opsgenie,Runtime/Error Handling,199,1,0.50,1
+npm+pypi,pulumi/pulumi-opsgenie,Documentation/Configuration,199,38,19.10,1
+npm+pypi,pulumi/pulumi-opsgenie,Other Python Maintenance,199,44,22.11,1
+npm+pypi,pulumiverse/pulumi-esxi-native,Dependency/Packaging,85,85,100.00,1
+npm+pypi,pulumiverse/pulumi-harbor,Dependency/Packaging,319,297,93.10,1
+npm+pypi,pulumiverse/pulumi-harbor,API Evolution,319,2,0.63,1
+npm+pypi,pulumiverse/pulumi-harbor,Compatibility,319,6,1.88,1
+npm+pypi,pulumiverse/pulumi-harbor,Documentation/Configuration,319,11,3.45,1
+npm+pypi,pulumiverse/pulumi-harbor,Other Python Maintenance,319,3,0.94,1
+npm+pypi,pulumiverse/pulumi-purrl,Dependency/Packaging,307,307,100.00,1
+npm+pypi,pulumiverse/pulumi-talos,Dependency/Packaging,62,41,66.13,1
+npm+pypi,pulumiverse/pulumi-talos,API Evolution,62,2,3.23,1
+npm+pypi,pulumiverse/pulumi-talos,Runtime/Error Handling,62,3,4.84,1
+npm+pypi,pulumiverse/pulumi-talos,Documentation/Configuration,62,13,20.97,1
+npm+pypi,pulumiverse/pulumi-talos,Other Python Maintenance,62,3,4.84,1
+npm+pypi,pulumiverse/pulumi-zitadel,Dependency/Packaging,40,24,60.00,1
+npm+pypi,pulumiverse/pulumi-zitadel,API Evolution,40,2,5.00,1
+npm+pypi,pulumiverse/pulumi-zitadel,Runtime/Error Handling,40,2,5.00,1
+npm+pypi,pulumiverse/pulumi-zitadel,Documentation/Configuration,40,9,22.50,1
+npm+pypi,pulumiverse/pulumi-zitadel,Other Python Maintenance,40,3,7.50,1
+npm+pypi,quantopian/qgrid,Dependency/Packaging,549,252,45.90,1
+npm+pypi,quantopian/qgrid,API Evolution,549,102,18.58,1
+npm+pypi,quantopian/qgrid,Runtime/Error Handling,549,52,9.47,1
+npm+pypi,quantopian/qgrid,Compatibility,549,11,2.00,1
+npm+pypi,quantopian/qgrid,Documentation/Configuration,549,13,2.37,1
+npm+pypi,quantopian/qgrid,Testing/CI,549,18,3.28,1
+npm+pypi,quantopian/qgrid,Other Python Maintenance,549,101,18.40,1
+npm+pypi,quantstack/jupyter-drives-browser,Dependency/Packaging,10,10,100.00,1
+npm+pypi,quantstack/jupyterlab-snippets,Dependency/Packaging,84,56,66.67,1
+npm+pypi,quantstack/jupyterlab-snippets,API Evolution,84,16,19.05,1
+npm+pypi,quantstack/jupyterlab-snippets,Runtime/Error Handling,84,2,2.38,1
+npm+pypi,quantstack/jupyterlab-snippets,Documentation/Configuration,84,2,2.38,1
+npm+pypi,quantstack/jupyterlab-snippets,Other Python Maintenance,84,8,9.52,1
+npm+pypi,quigleyj97/jupyterlab-spreadsheet,Dependency/Packaging,30,24,80.00,1
+npm+pypi,quigleyj97/jupyterlab-spreadsheet,API Evolution,30,4,13.33,1
+npm+pypi,quigleyj97/jupyterlab-spreadsheet,Other Python Maintenance,30,2,6.67,1
+npm+pypi,rafaeljohn9/gh-templates,Dependency/Packaging,32,26,81.25,1
+npm+pypi,rafaeljohn9/gh-templates,API Evolution,32,6,18.75,1
+npm+pypi,randyridgley/cdk-datalake-constructs,Dependency/Packaging,2,2,100.00,1
+npm+pypi,readybuilderone/serverless-airflow,Other Python Maintenance,1,1,100.00,1
+npm+pypi,rehanvdm/cdk-express-pipeline,Other Python Maintenance,1,1,100.00,1
+npm+pypi,rzamana/projen-study,Dependency/Packaging,115,115,100.00,1
+npm+pypi,shexspec/shextest,Documentation/Configuration,2,2,100.00,1
+npm+pypi,siliconflow/langchain-siliconflow,Dependency/Packaging,35,12,34.29,1
+npm+pypi,siliconflow/langchain-siliconflow,API Evolution,35,8,22.86,1
+npm+pypi,siliconflow/langchain-siliconflow,Runtime/Error Handling,35,1,2.86,1
+npm+pypi,siliconflow/langchain-siliconflow,Documentation/Configuration,35,1,2.86,1
+npm+pypi,siliconflow/langchain-siliconflow,Testing/CI,35,6,17.14,1
+npm+pypi,siliconflow/langchain-siliconflow,Other Python Maintenance,35,7,20.00,1
+npm+pypi,simonngn/sharedpubsub,Dependency/Packaging,14,10,71.43,1
+npm+pypi,simonngn/sharedpubsub,Documentation/Configuration,14,1,7.14,1
+npm+pypi,simonngn/sharedpubsub,Other Python Maintenance,14,3,21.43,1
+npm+pypi,smooai/logger,Dependency/Packaging,38,31,81.58,1
+npm+pypi,smooai/logger,API Evolution,38,5,13.16,1
+npm+pypi,smooai/logger,Other Python Maintenance,38,2,5.26,1
+npm+pypi,snehilvj/dash-iconify,API Evolution,1,1,100.00,1
+npm+pypi,soda-mpc/soda-sdk,Dependency/Packaging,186,32,17.20,1
+npm+pypi,soda-mpc/soda-sdk,API Evolution,186,95,51.08,1
+npm+pypi,soda-mpc/soda-sdk,Runtime/Error Handling,186,3,1.61,1
+npm+pypi,soda-mpc/soda-sdk,Documentation/Configuration,186,11,5.91,1
+npm+pypi,soda-mpc/soda-sdk,Testing/CI,186,35,18.82,1
+npm+pypi,soda-mpc/soda-sdk,Other Python Maintenance,186,10,5.38,1
+npm+pypi,spear-ai/citizen,Dependency/Packaging,46,45,97.83,1
+npm+pypi,spear-ai/citizen,Runtime/Error Handling,46,1,2.17,1
+npm+pypi,superluminar-io/super-eks,Dependency/Packaging,81,80,98.77,1
+npm+pypi,superluminar-io/super-eks,Other Python Maintenance,81,1,1.23,1
+npm+pypi,sureshpandiyan1/instagram-scraper-it,Dependency/Packaging,3,2,66.67,1
+npm+pypi,sureshpandiyan1/instagram-scraper-it,API Evolution,3,1,33.33,1
+npm+pypi,svenkreiss/unicodeit,Dependency/Packaging,76,23,30.26,1
+npm+pypi,svenkreiss/unicodeit,API Evolution,76,13,17.11,1
+npm+pypi,svenkreiss/unicodeit,Runtime/Error Handling,76,10,13.16,1
+npm+pypi,svenkreiss/unicodeit,Compatibility,76,3,3.95,1
+npm+pypi,svenkreiss/unicodeit,Documentation/Configuration,76,6,7.89,1
+npm+pypi,svenkreiss/unicodeit,Testing/CI,76,3,3.95,1
+npm+pypi,svenkreiss/unicodeit,Other Python Maintenance,76,18,23.68,1
+npm+pypi,team-simplay/simplay,Dependency/Packaging,132,33,25.00,1
+npm+pypi,team-simplay/simplay,API Evolution,132,12,9.09,1
+npm+pypi,team-simplay/simplay,Runtime/Error Handling,132,24,18.18,1
+npm+pypi,team-simplay/simplay,Documentation/Configuration,132,35,26.52,1
+npm+pypi,team-simplay/simplay,Testing/CI,132,15,11.36,1
+npm+pypi,team-simplay/simplay,Other Python Maintenance,132,13,9.85,1
+npm+pypi,tensorus/tensorus,Dependency/Packaging,486,150,30.86,1
+npm+pypi,tensorus/tensorus,API Evolution,486,258,53.09,1
+npm+pypi,tensorus/tensorus,Runtime/Error Handling,486,34,7.00,1
+npm+pypi,tensorus/tensorus,Documentation/Configuration,486,16,3.29,1
+npm+pypi,tensorus/tensorus,Testing/CI,486,21,4.32,1
+npm+pypi,tensorus/tensorus,Other Python Maintenance,486,7,1.44,1
+npm+pypi,thibaudcolas/markov_draftjs,Dependency/Packaging,1,1,100.00,1
+npm+pypi,timkpaine/daggre,Dependency/Packaging,20,18,90.00,1
+npm+pypi,timkpaine/daggre,Testing/CI,20,2,10.00,1
+npm+pypi,tolstoyevsky/shirow,Dependency/Packaging,66,33,50.00,1
+npm+pypi,tolstoyevsky/shirow,API Evolution,66,4,6.06,1
+npm+pypi,tolstoyevsky/shirow,Runtime/Error Handling,66,2,3.03,1
+npm+pypi,tolstoyevsky/shirow,Compatibility,66,1,1.52,1
+npm+pypi,tolstoyevsky/shirow,Documentation/Configuration,66,1,1.52,1
+npm+pypi,tolstoyevsky/shirow,Testing/CI,66,11,16.67,1
+npm+pypi,tolstoyevsky/shirow,Other Python Maintenance,66,14,21.21,1
+npm+pypi,toricls/cdk8s-debore,Dependency/Packaging,1,1,100.00,1
+npm+pypi,tradik/schema-resume,Dependency/Packaging,10,8,80.00,1
+npm+pypi,tradik/schema-resume,API Evolution,10,2,20.00,1
+npm+pypi,trungleduc/jupyter_app_launcher,Dependency/Packaging,43,28,65.12,1
+npm+pypi,trungleduc/jupyter_app_launcher,API Evolution,43,5,11.63,1
+npm+pypi,trungleduc/jupyter_app_launcher,Documentation/Configuration,43,7,16.28,1
+npm+pypi,trungleduc/jupyter_app_launcher,Testing/CI,43,1,2.33,1
+npm+pypi,trungleduc/jupyter_app_launcher,Other Python Maintenance,43,2,4.65,1
+npm+pypi,trungleduc/jupyterview,Dependency/Packaging,19,16,84.21,1
+npm+pypi,trungleduc/jupyterview,API Evolution,19,3,15.79,1
+npm+pypi,ttktjmt/muwanx,Dependency/Packaging,165,85,51.52,1
+npm+pypi,ttktjmt/muwanx,API Evolution,165,50,30.30,1
+npm+pypi,ttktjmt/muwanx,Runtime/Error Handling,165,8,4.85,1
+npm+pypi,ttktjmt/muwanx,Documentation/Configuration,165,5,3.03,1
+npm+pypi,ttktjmt/muwanx,Testing/CI,165,1,0.61,1
+npm+pypi,ttktjmt/muwanx,Other Python Maintenance,165,16,9.70,1
+npm+pypi,udondan/cdk-ec2-key-pair,Dependency/Packaging,81,75,92.59,1
+npm+pypi,udondan/cdk-ec2-key-pair,API Evolution,81,1,1.23,1
+npm+pypi,udondan/cdk-ec2-key-pair,Runtime/Error Handling,81,3,3.70,1
+npm+pypi,udondan/cdk-ec2-key-pair,Documentation/Configuration,81,1,1.23,1
+npm+pypi,udondan/cdk-ec2-key-pair,Other Python Maintenance,81,1,1.23,1
+npm+pypi,udondan/cdk-ssm-document,Dependency/Packaging,5,5,100.00,1
+npm+pypi,unascribed/flexver,Dependency/Packaging,10,5,50.00,1
+npm+pypi,unascribed/flexver,Compatibility,10,1,10.00,1
+npm+pypi,unascribed/flexver,Documentation/Configuration,10,1,10.00,1
+npm+pypi,unascribed/flexver,Other Python Maintenance,10,3,30.00,1
+npm+pypi,unmango/pulumi-pihole,Dependency/Packaging,20,18,90.00,1
+npm+pypi,unmango/pulumi-pihole,API Evolution,20,1,5.00,1
+npm+pypi,unmango/pulumi-pihole,Documentation/Configuration,20,1,5.00,1
+npm+pypi,upstash/pulumi-upstash,Dependency/Packaging,18,11,61.11,1
+npm+pypi,upstash/pulumi-upstash,API Evolution,18,2,11.11,1
+npm+pypi,upstash/pulumi-upstash,Runtime/Error Handling,18,2,11.11,1
+npm+pypi,upstash/pulumi-upstash,Documentation/Configuration,18,3,16.67,1
+npm+pypi,vatlab/jupyterlab-sos,Dependency/Packaging,18,10,55.56,1
+npm+pypi,vatlab/jupyterlab-sos,API Evolution,18,2,11.11,1
+npm+pypi,vatlab/jupyterlab-sos,Runtime/Error Handling,18,4,22.22,1
+npm+pypi,vatlab/jupyterlab-sos,Compatibility,18,1,5.56,1
+npm+pypi,vatlab/jupyterlab-sos,Documentation/Configuration,18,1,5.56,1
+npm+pypi,vemonet/nanopub-rs,Dependency/Packaging,3,2,66.67,1
+npm+pypi,vemonet/nanopub-rs,Testing/CI,3,1,33.33,1
+npm+pypi,vicoa-ai/vicoa-open,Dependency/Packaging,3,1,33.33,1
+npm+pypi,vicoa-ai/vicoa-open,API Evolution,3,2,66.67,1
+npm+pypi,webheroesinc/populater,API Evolution,2,1,50.00,1
+npm+pypi,webheroesinc/populater,Other Python Maintenance,2,1,50.00,1
+npm+pypi,worldwidetelescope/pywwt,Dependency/Packaging,1771,438,24.73,1
+npm+pypi,worldwidetelescope/pywwt,API Evolution,1771,380,21.46,1
+npm+pypi,worldwidetelescope/pywwt,Runtime/Error Handling,1771,203,11.46,1
+npm+pypi,worldwidetelescope/pywwt,Compatibility,1771,55,3.11,1
+npm+pypi,worldwidetelescope/pywwt,Documentation/Configuration,1771,145,8.19,1
+npm+pypi,worldwidetelescope/pywwt,Testing/CI,1771,121,6.83,1
+npm+pypi,worldwidetelescope/pywwt,Other Python Maintenance,1771,429,24.22,1
+npm+pypi,wtfjoke/cdk-github,Dependency/Packaging,2,2,100.00,1
+npm+pypi,xlt208/jupyterlab-todo-list,Dependency/Packaging,5,1,20.00,1
+npm+pypi,xlt208/jupyterlab-todo-list,API Evolution,5,1,20.00,1
+npm+pypi,xlt208/jupyterlab-todo-list,Runtime/Error Handling,5,2,40.00,1
+npm+pypi,xlt208/jupyterlab-todo-list,Testing/CI,5,1,20.00,1
+npm+pypi,yangyuan/rabbit,Dependency/Packaging,4,2,50.00,1
+npm+pypi,yangyuan/rabbit,Other Python Maintenance,4,2,50.00,1
+npm+pypi,yoobool/flask-state,Dependency/Packaging,67,9,13.43,1
+npm+pypi,yoobool/flask-state,API Evolution,67,23,34.33,1
+npm+pypi,yoobool/flask-state,Runtime/Error Handling,67,12,17.91,1
+npm+pypi,yoobool/flask-state,Compatibility,67,4,5.97,1
+npm+pypi,yoobool/flask-state,Documentation/Configuration,67,10,14.93,1
+npm+pypi,yoobool/flask-state,Testing/CI,67,5,7.46,1
+npm+pypi,yoobool/flask-state,Other Python Maintenance,67,4,5.97,1
+npm+pypi,yowasp/nextpnr,Dependency/Packaging,24,20,83.33,1
+npm+pypi,yowasp/nextpnr,API Evolution,24,4,16.67,1
+npm+pypi,yowasp/yosys,Dependency/Packaging,14,12,85.71,1
+npm+pypi,yowasp/yosys,API Evolution,14,1,7.14,1
+npm+pypi,yowasp/yosys,Compatibility,14,1,7.14,1
+npm+pypi,zeromq/ingescape,Dependency/Packaging,112,65,58.04,1
+npm+pypi,zeromq/ingescape,API Evolution,112,18,16.07,1
+npm+pypi,zeromq/ingescape,Runtime/Error Handling,112,2,1.79,1
+npm+pypi,zeromq/ingescape,Compatibility,112,3,2.68,1
+npm+pypi,zeromq/ingescape,Documentation/Configuration,112,3,2.68,1
+npm+pypi,zeromq/ingescape,Testing/CI,112,8,7.14,1
+npm+pypi,zeromq/ingescape,Other Python Maintenance,112,13,11.61,1
+npm+pypi,zhihanyue/qgridnext,Dependency/Packaging,10,7,70.00,1
+npm+pypi,zhihanyue/qgridnext,API Evolution,10,1,10.00,1
+npm+pypi,zhihanyue/qgridnext,Runtime/Error Handling,10,2,20.00,1
+npm+pypi,zsailer/jupyterlab-eventlistener,Dependency/Packaging,4,4,100.00,1

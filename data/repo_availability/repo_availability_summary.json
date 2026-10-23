@@ -1,0 +1,17 @@
+{
+  "population_repositories": 2674,
+  "availability_status_counts": {
+    "available": 2250,
+    "not_found_or_private": 424
+  },
+  "available_repositories": 2250,
+  "unavailable_or_problem_repositories": 424,
+  "available_with_zero_mined_activity": 1866,
+  "available_with_mined_activity": 384,
+  "unavailable_with_zero_mined_activity": 423,
+  "unavailable_with_mined_activity": 1,
+  "available_with_zero_rq1_classified_records": 1946,
+  "available_with_zero_python_related_records": 2006,
+  "available_without_rq2_static_summary": 0,
+  "unavailable_without_rq2_static_summary": 424
+}

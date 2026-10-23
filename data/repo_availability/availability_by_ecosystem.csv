@@ -1,0 +1,5 @@
+ecosystem_combo,population,available,not_found_or_private,mined_activity_gt0,rq1_classified_gt0,python_related_gt0,rq2_static_summary_available
+crates+npm+pypi,106,99,7,19,16,14,99
+crates+pypi,670,641,29,137,113,95,641
+maven+pypi,11,11,0,2,2,2,11
+npm+pypi,1887,1499,388,227,173,133,1499

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Different Sides of the Same Repository: Maintenance and Coupling in PyPI Cross-Ecosystem Packages (Replication Package)"
+message: "If you use this artifact, please cite the accompanying paper and this archived dataset."
+type: dataset
+authors:
+  - name: "Anonymous Authors"
+abstract: >-
+  Data tables and analysis scripts for an empirical study of 2,674 GitHub
+  repositories with packages on PyPI and at least one of npm, Maven, or
+  Crates.io. The artifact contains the repository population, ecosystem-side
+  heuristic labels and rule-based Python-related maintenance topics
+  (preliminary study), six-class maintenance-task classifications of 128,570
+  maintenance artifacts (RQ1), and static evidence of build/package-time and
+  potential runtime coupling for 2,250 analyzed repositories (RQ2).
+keywords:
+  - software ecosystem
+  - repository mining
+  - software maintenance
+  - cross-ecosystem packages
+  - PyPI
+  - static analysis
+license: "CC-BY-4.0"
+repository-code: "https://anonymous.4open.science/r/apsec2026"
+date-released: "2026-10-24"

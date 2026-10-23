@@ -1,0 +1,5 @@
+ecosystem_combo,population,no_detected_runtime_coupling,build_package_time_coupling,potential_runtime_loading,potential_external_runtime_coupling,not_analyzed
+crates+npm+pypi,106,34,31,17,17,7
+crates+pypi,670,135,430,28,48,29
+maven+pypi,11,7,1,2,1,0
+npm+pypi,1887,926,455,51,67,388

@@ -1,0 +1,49 @@
+heuristic,artifact_type,category,label,eligible_artifacts,artifact_count,percentage
+extension,commit,Bug,python_only,10823,1570,14.51
+extension,commit,Bug,paired_only,10823,3042,28.11
+extension,commit,Bug,both,10823,275,2.54
+extension,commit,Bug,neither,10823,5936,54.85
+extension,commit,Feature,python_only,26529,1653,6.23
+extension,commit,Feature,paired_only,26529,3603,13.58
+extension,commit,Feature,both,26529,510,1.92
+extension,commit,Feature,neither,26529,20763,78.27
+extension,commit,Documentation,python_only,10032,1012,10.09
+extension,commit,Documentation,paired_only,10032,1594,15.89
+extension,commit,Documentation,both,10032,878,8.75
+extension,commit,Documentation,neither,10032,6548,65.27
+extension,commit,Test Cases,python_only,4482,459,10.24
+extension,commit,Test Cases,paired_only,4482,789,17.60
+extension,commit,Test Cases,both,4482,73,1.63
+extension,commit,Test Cases,neither,4482,3161,70.53
+extension,commit,Refactoring,python_only,3452,364,10.54
+extension,commit,Refactoring,paired_only,3452,1441,41.74
+extension,commit,Refactoring,both,3452,93,2.69
+extension,commit,Refactoring,neither,3452,1554,45.02
+extension,commit,Other,python_only,24670,2608,10.57
+extension,commit,Other,paired_only,24670,4902,19.87
+extension,commit,Other,both,24670,869,3.52
+extension,commit,Other,neither,24670,16291,66.04
+extension,pull_request,Bug,python_only,13485,732,5.43
+extension,pull_request,Bug,paired_only,13485,1097,8.13
+extension,pull_request,Bug,both,13485,225,1.67
+extension,pull_request,Bug,neither,13485,11431,84.77
+extension,pull_request,Feature,python_only,5993,438,7.31
+extension,pull_request,Feature,paired_only,5993,812,13.55
+extension,pull_request,Feature,both,5993,330,5.51
+extension,pull_request,Feature,neither,5993,4413,73.64
+extension,pull_request,Documentation,python_only,4876,531,10.89
+extension,pull_request,Documentation,paired_only,4876,1021,20.94
+extension,pull_request,Documentation,both,4876,657,13.47
+extension,pull_request,Documentation,neither,4876,2667,54.70
+extension,pull_request,Test Cases,python_only,3590,295,8.22
+extension,pull_request,Test Cases,paired_only,3590,382,10.64
+extension,pull_request,Test Cases,both,3590,185,5.15
+extension,pull_request,Test Cases,neither,3590,2728,75.99
+extension,pull_request,Refactoring,python_only,629,89,14.15
+extension,pull_request,Refactoring,paired_only,629,246,39.11
+extension,pull_request,Refactoring,both,629,39,6.20
+extension,pull_request,Refactoring,neither,629,255,40.54
+extension,pull_request,Other,python_only,5677,342,6.02
+extension,pull_request,Other,paired_only,5677,627,11.04
+extension,pull_request,Other,both,5677,114,2.01
+extension,pull_request,Other,neither,5677,4594,80.92
